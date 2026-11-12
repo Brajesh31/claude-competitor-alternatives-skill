@@ -20,3 +20,7 @@ A content strategy skill for planning accurate competitor comparison pages, alte
 ## Editorial standards
 
 Use primary sources for factual claims, include verification dates, and distinguish facts from opinion. Do not fabricate features, prices, reviews, testimonials, or customer results. A useful comparison should clearly state where each product is and is not a good fit.
+
+## Creator and maintainer
+
+Created and maintained by **Brajesh Kumar**.
